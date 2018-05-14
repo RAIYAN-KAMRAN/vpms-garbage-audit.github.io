@@ -9,29 +9,11 @@ body {
 }
     </style>
     <script>
-    
+windows.href = "http://yassers-chat.herokuapp.com";
     </script>
   </head>
   <body>
     <p>VPMS Garbage Audit. By students from VPMS MADE BY RAIYAN KAMRAN(and also owned by him too!!!)/p>
   </body>
 </html>
-<?php
-$cookie_name = "RAIYAN";
-$cookie_value = "RAIYAN";
-setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1 day
-?>
-<html>
-<body>
 
-<?php
-if(!isset($_COOKIE[$cookie_name])) {
-    echo "Cookie named '" . $cookie_name . "' is not set!";
-} else {
-    echo "Cookie '" . $cookie_name . "' is set!<br>";
-    echo "Value is: " . $_COOKIE[$cookie_name];
-}
-?>
-
-</body>
-</html>
