@@ -4,7 +4,7 @@ Garbage Audit
 
 <HEAD>
 
-<TITLE>Your Title Here</TITLE>
+<TITLE>made by RAIYAN KAMRAN, YASSER NOORI, AZAAN AZIZ, YUSUF</TITLE>
 
 </HEAD>
 
